@@ -1,4 +1,4 @@
-# transacting-on-blockchain
+# transacting-on-blockchain/coursera 
 Coursera solutions to Transacting on blockchain 
 Instructor's note- 
 Welcome to Transacting on the Blockchain! You’re joining thousands of learners currently enrolled in the course. I'm excited to have you in the class and look forward to your contributions to the learning community.
