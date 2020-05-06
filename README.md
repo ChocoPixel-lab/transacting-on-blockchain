@@ -10,3 +10,6 @@ To begin, I recommend taking a few minutes to explore the course site. Review th
 If you have questions about course content, please post them in the forums to get help from others in the course community. For technical problems with the Coursera platform, visit the Learner Help Center.
 
 Good luck as you get started, and I hope you enjoy the course!
+
+
+Note: I'll be providing the solutions for qualifying(80%) and won't gurantee 100% to get your certificate from coursera.
